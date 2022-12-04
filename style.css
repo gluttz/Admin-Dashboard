@@ -355,7 +355,7 @@ img{
 #trending-container>div{
     background-color: var(--white);
     border-radius: 1rem;
-    padding: 1rem;
+    padding: 1.5rem;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     gap: 1rem;
